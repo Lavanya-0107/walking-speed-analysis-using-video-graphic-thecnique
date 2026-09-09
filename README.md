@@ -51,7 +51,7 @@ The system uses YOLOv8 for person detection and ByteTrack for tracking people ac
 
 ## 🚀 How to Run
 
-### 1. Clone the repository
+### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/Lavanya-0107/walking-speed-analysis-using-video-graphic-thecnique.git
