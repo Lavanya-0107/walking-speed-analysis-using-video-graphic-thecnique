@@ -1,0 +1,2 @@
+main_polygon_area_pixels,main_polygon_area_square_meters,count_polygon_area_pixels,count_polygon_area_square_meters,calibration_factor_meters_per_pixel,reference_distance_meters,reference_distance_pixels,pedpy_integration
+10232.5,293982283.125,19832.0,569778318.0,169.5,80338.35113132457,473.97257304616267,True
